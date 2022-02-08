@@ -8,6 +8,8 @@ Spring Framework is an open-source framework for building web applications with 
 
 ![spring](https://github.com/veilair/spring-development/blob/main/img/java-spring-framework.png)
 
+## Table of Contents
+
 * [Books](#books)
 * [Courses](#courses)
 * [Podcasts](#podcasts)
