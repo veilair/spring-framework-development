@@ -112,6 +112,12 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
 
 
+Contributions are very welcome!
+
+Please, read the [Contribution Guidelines](https://github.com/exajobs/spring-development/blob/master/contributing.md) before submitting your suggestion.
+
+Feel free to [open an issue](https://github.com/exajobs/spring-development/issues) or [create a pull request](https://github.com/exajobs/spring-development/pulls) with your additions.
+
 
 
 ## Licenses
