@@ -21,6 +21,8 @@ Spring Framework is an open-source framework for building web applications with 
   * [YouTube Channels and Playlists](#youtube-channels-and-playlists)
 * [Contributing](#contributing)
 
+[Back to top](#table-of-contents)
+
 ## Books
 
 * [Cloud Native Java](http://cloudnativejava.io/), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
@@ -108,4 +110,16 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Bootify](https://bootify.io) - Generate Spring Boot apps with custom database and REST API.
 * [JHipster](https://www.jhipster.tech/) - Quickly generate, develop, and deploy Spring Boot web applications and microservice architectures.
 * [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
+
+
+
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#table-of-contents)
 
