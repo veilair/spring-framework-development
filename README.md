@@ -6,6 +6,8 @@
 ## What is Spring Framework?
 Spring Framework is an open-source framework for building web applications with Java as a programming language. It is powerful and lightweight yet easy to use, and it provides support for developing Java applications easily. Spring is a lightweight framework which can be thought of as a framework of frameworks because it also offers support for various frameworks such as hibernate, struts, tapestry, and JSF.
 
+![spring](https://github.com/veilair/spring-development/blob/main/img/java-spring-framework.png)
+
 * [Books](#books)
 * [Courses](#courses)
 * [Podcasts](#podcasts)
