@@ -3,12 +3,12 @@
 
 ## Table of Contents
 
-## What is Spring Framework?
-Spring Framework is an open-source framework for building web applications with Java as a programming language. It is powerful and lightweight yet easy to use, and it provides support for developing Java applications easily. Spring is a lightweight framework which can be thought of as a framework of frameworks because it also offers support for various frameworks such as hibernate, struts, tapestry, and JSF.
+##  `What is Spring Framework `?
+Java Spring Framework is an open-source framework for building web applications with Java as a programming language. It is powerful and lightweight yet easy to use, and it provides support for developing Java applications easily. Spring is a lightweight framework which can be thought of as a framework of frameworks because it also offers support for various frameworks such as hibernate, struts, tapestry, and JSF.
 
 ![spring](https://github.com/veilair/spring-development/blob/main/img/java-spring-framework.png)
 
-## Table of Contents
+##  `Table of Contents `
 
 * [Books](#books)
 * [Courses](#courses)
@@ -27,7 +27,7 @@ Spring Framework is an open-source framework for building web applications with 
 
 [Back to top](#table-of-contents)
 
-## Books
+##  `Books `
 
 * [Cloud Native Java](http://cloudnativejava.io/), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action), 2021 - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
@@ -38,20 +38,20 @@ Spring Framework is an open-source framework for building web applications with 
 * [Spring Boot: Up & Running](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), 2021 - A guide through Spring Boot’s architecture and approach, along with topics such as debugging, testing, and deployment.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
 
-## Courses
+##  `Courses `
 
 * [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real-world application examples.
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
 
-## Podcasts
+##  `Podcasts `
 
 * [Bootiful Podcast](http://bootifulpodcast.fm/) - A "celebration of the real heroes that drive ecosystems", hosted by the Spring developer advocate Josh Long.
 
-## Events
+##  `Events `
 
 * [Spring One](https://springone.io/) - A two-day conference gathering developers, cloud engineers, and leaders to share knowledge about the Spring Framework ecosystem.
 
-## Tutorials
+##  `Tutorials `
 
 ### Spring Boot
 
@@ -63,7 +63,7 @@ Spring Framework is an open-source framework for building web applications with 
 
 * [Centralized Configuration with Spring Cloud Config](https://www.thomasvitale.com/spring-cloud-config-basics/) - Learn how to build a central config server with Spring Cloud Config, configure a Spring Boot application with it, and refresh the config at runtime.
 
-### Spring Framework
+###  Spring Framework
 
 * [What is Spring Framework: Dependency Injection in Java](https://www.marcobehler.com/guides/spring-framework) - A guide to understand what Spring framework is and how its core features like dependency injection or aspected oriented programming work.
 
